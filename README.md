@@ -24,6 +24,6 @@ I Main metoden skapar du test kod för att göra följande:
 
 **Utskrift**
 
-Ett hus har oftast flera väggar
-Ett radhus har ofta lägenheter i rad
-I ett höghus byggar man ofta lägenheterna ovanpå varandra
+- Ett hus har oftast flera väggar
+- Ett radhus har ofta lägenheter i rad
+- I ett höghus byggar man ofta lägenheterna ovanpå varandra
