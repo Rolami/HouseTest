@@ -2,7 +2,7 @@
 
 ## OOP övning House
 
-![Image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41550ec8-ec2e-46a1-ad67-1f47c305bd2a/Untitled.png)
+
 
 **Klass House, Terracedhouse och HigRise**
 Skapa ett nytt C #-projekt som heter **HouseTest** med tre klasser plus ytterligare en main klass för att testa logiken i din kod. Tanken är att använda virtual och override. Huvudklasserna i programmet är följande klasser:
@@ -23,3 +23,7 @@ I Main metoden skapar du test kod för att göra följande:
     1. Tips: man skapar **inte** Teraccedhouse och HighRise som vi brukar göra.
 
 **Utskrift**
+
+Ett hus har oftast flera väggar
+Ett radhus har ofta lägenheter i rad
+I ett höghus byggar man ofta lägenheterna ovanpå varandra
