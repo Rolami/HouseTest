@@ -11,9 +11,9 @@ Skapa ett nytt C #-projekt som heter **HouseTest** med tre klasser plus ytterlig
 - Terracedhouse
 - Highrise
 - T**erracedhouse och Highrise** klasserna ärver från klassen **House**.
-- [ ]  Klassen House måste ha en metod GetMoreInfo() som kommer att skriva Ett hus har oftast flera väggar
-- [ ]  Terracedhouse klassen kommer att innehålla en GetMoreInfo() metod som kommer att skriva Ett radhus har ofta lägenheter i rad.
-- [ ]  Highrise klassen kommer ha en metod GetMoreInfo() som kommer att skriva I ett höghus byggar man ofta lägenheterna ovanpå varandra
+- [x]  Klassen House måste ha en metod GetMoreInfo() som kommer att skriva Ett hus har oftast flera väggar
+- [x]  Terracedhouse klassen kommer att innehålla en GetMoreInfo() metod som kommer att skriva Ett radhus har ofta lägenheter i rad.
+- [x]  Highrise klassen kommer ha en metod GetMoreInfo() som kommer att skriva I ett höghus byggar man ofta lägenheterna ovanpå varandra
 
 I Main metoden skapar du test kod för att göra följande:
 
